@@ -1,0 +1,21 @@
+{
+  "name": "test-driven-carousel",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Book: Test-Drive React - Find Problems Early, Fix Them Quicky, Code with Confidence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipef9/test-driven-carousel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipef9/test-driven-carousel/issues"
+  },
+  "homepage": "https://github.com/filipef9/test-driven-carousel#readme"
+}
