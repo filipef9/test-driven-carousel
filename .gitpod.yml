@@ -2,3 +2,8 @@
 vscode:
   extensions:
     - WakaTime.vscode-wakatime
+
+ports:
+  - port: 8080 # react app
+    visibility: private
+    onOpen: open-preview
