@@ -2,6 +2,7 @@
 vscode:
   extensions:
     - WakaTime.vscode-wakatime
+    - stylelint.vscode-stylelint
 
 ports:
   - port: 8080 # react app
